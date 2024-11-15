@@ -1,0 +1,39 @@
+nav{
+    padding: 15px;
+    text-align: center;
+    
+    
+
+}
+body{
+    background-image: url(Untitled\ design.png);
+    color: cornsilk;
+}
+img{
+    border-radius: 50%;
+    padding: 313px;
+    margin-top: -1409px;
+    margin-left: 948px;
+
+}
+header{
+    margin-top: 255px;
+    margin-left: 929px;
+}
+nav>a{
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border-radius: 5px; 
+    color: cornsilk;
+    border: 2px solid black;
+    text-align: center;
+}
+#d1{
+    margin-left: 600px;
+}
+a{
+    text-decoration: none;
+    color: cornsilk;
+}
